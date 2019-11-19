@@ -1,5 +1,5 @@
 # Android
-A Mobile Application for Android developed using Android studio
+A Mobile Application for Android developed using Android studio as a Mini Project
 
 **Technologies used-**
 1) Android Studio (Java and XML)
@@ -46,3 +46,5 @@ All Foods available for recieving -
 Location of the food you want to recieve - 
 
 <img src="https://github.com/nizam19/Android/blob/master/ScreenShots/WhatsApp%20Image%202019-11-19%20at%2022.20.59%20(7).jpeg" width="150" alt="8">
+
+Thank you for reading!
