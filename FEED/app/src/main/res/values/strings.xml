@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FEED</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="your_name">Your name</string>
+    <string name="food_name">Food name</string>
+    <string name="contact_number">Contact number</string>
+    <string name="donate">Donate</string>
+    <string name="food_quantity">Food quantity</string>
+</resources>

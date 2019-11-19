@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="2.0"
+    >
+
+    <Button
+        android:id="@+id/donate"
+        style="?attr/buttonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="305dp"
+        android:layout_weight="1"
+        android:background="@drawable/myfooddonation"
+        android:textColor="#4da7ff"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/recieve"
+        style="?attr/buttonBarButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="297dp"
+        android:background="@drawable/receiver"
+        android:layout_weight="1"
+        android:textColor="#4da7ff"
+        android:textSize="30sp"
+        />
+
+</LinearLayout>
