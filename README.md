@@ -1,4 +1,4 @@
-# Android
+# Feed -Food waste management android application
 A Mobile Application for Android developed using Android studio as a Mini Project
 
 **Technologies used-**
