@@ -1,10 +1,10 @@
 # Feed -Food waste management android application
-A Mobile Application for Android developed using Android studio as a Mini Project
+A Mobile Application for Android developed using Android studio as a Micro-Project in 5th semester
 
 **Technologies used-**
 1) Android Studio (Java and XML)
 2) Firebase (Authentication, Realtime Database)
-3) Google Maps API (Getting user current location in the backend)
+3) Google Maps API (Getting user current location in the backend and opening that location in google maps)
 
 **About-**
 FEED is a realtime app which aims to reduce wastage of food.
