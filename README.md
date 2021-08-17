@@ -13,6 +13,10 @@ When ever a user donates food, it gets stored in the realtime database.
 Information is retrieved from the database every time any user wants to recieve food.
 The one who wishes to recieve is then directed to Google Maps for Location of the donor.
 
+[![Video](https://img.youtube.com/vi/pEP2Zk_KSfM/0.jpg)](https://www.youtube.com/watch?v=pEP2Zk_KSfM)
+
+CLICK :point_up: for a short youtube video demo of how this application functions
+
 _Enjoy the screenshots :)_
 
 Logo Page -
